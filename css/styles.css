@@ -22,7 +22,6 @@ body {
     font-size: 16px;
     border: 0;
     width: 100%;
-    flex: 1;
     outline: none;
 }
 
@@ -52,7 +51,7 @@ b{
     display: none;
     padding: unset;
     background: #f5f5f5;
-    width: 490px;
+    width: 100%;
 }
 
 #list li {
